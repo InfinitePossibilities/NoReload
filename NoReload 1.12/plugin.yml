@@ -1,0 +1,28 @@
+name: NoReload
+main: com.infiniteone.NoReload
+version: 1
+author: InfiniteOne
+description: Cancels the Bukkit /Reload command
+commands:
+  noreload:
+    description: List commands
+    usage: /noreload
+  noreload help:
+    description: List commands
+    usage: /noreload help
+  reload:
+    description: Useless command
+    usage: /reload
+permissions:
+  noreload.*:
+    description: Allows use of all commands
+    default: op
+    children:
+      noreload.help: true
+      noreload.reload: true
+  noreload.help:
+    description: Shows the help dialogue
+    default: op
+  noreload.reload:
+    description: Allows use of /reload
+    default: op
