@@ -1,0 +1,26 @@
+#==========================================================#
+# +-=-=-=-=-=-=-=-=-=-=-=--------=-=-=-=-=-=-=-=-=-=-=-=-+ #
+# |                       Welcome                        | #
+# +-=-=-=-=-=-=-=-=-=-=-=--------=-=-=-=-=-=-=-=-=-=-=-=-+ #
+#==========================================================#
+#                        Hello!
+# Thank you for using my first plugin. As stated simply by the name, this plugin stops the command /reload from running. This plugin is great with plugman by the way, and to anyone who doesn't know the harms of /reload, see here: https://www.spigotmc.org/threads/lets-kill-reload-or-make-it-better.35611/
+#
+# Please support my work:
+#  - https://www.patreon.com/InfinitesGaming
+#
+# Also check out my YT Channel:
+#  - https://www.youtube.com/channel/UCPWRuNW2ZZpHI2qjDaafzPA?view_as=subscriber
+#
+# This plugin is also under the GNU General Public License. See the link below  for more information.
+# http://www.gnu.org/licenses/gpl.html#header
+#==========================================================#
+# +-=-=-=-=-=-=-=-=-=-=-=------=-=-=-=-=-=-=-=-=-=-=-=-=-+ #
+# |                      Config                          | #
+# +-=-=-=-=-=-=-=-=-=-=-=------=-=-=-=-=-=-=-=-=-=-=-=-=-+ #
+#==========================================================#
+#
+# Because why not.
+Enabled: true
+# Metrics sends plugin stats to mcstats.org. This is Optional.
+Metrics: true
